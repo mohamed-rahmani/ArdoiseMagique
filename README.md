@@ -1,6 +1,6 @@
 # ArdoiseMagique
 
-SAE S201 réaliser par Mohamed RAHMANI et Vithurzen VILVARAJAH
+Projet réaliser par Mohamed RAHMANI et Vithurzen VILVARAJAH
 
 - Vous trouverez les diagrammes UML dans le dossier UML_sae201
 
